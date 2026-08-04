@@ -2,6 +2,8 @@
 
 这是一个用于练习 Git 与 GitHub 协作流程的仓库，重点是分支、合并和冲突处理。
 
+完整的真实 Pull Request 操作记录见 [`case-study/PR_WALKTHROUGH.md`](case-study/PR_WALKTHROUGH.md)。
+
 ## 日常同步
 
 ```bash
@@ -55,4 +57,3 @@ git push origin main
 ```bash
 git log --oneline --graph --decorate --all
 ```
-
