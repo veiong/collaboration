@@ -1,2 +1,2 @@
-Release owner: unassigned
+Release owner: main-platform-team
 Release status: draft
