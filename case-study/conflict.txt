@@ -1,2 +1,2 @@
-Release owner: main-platform-team
+Release owner: feature-team-a1 with main-platform-team review
 Release status: draft
