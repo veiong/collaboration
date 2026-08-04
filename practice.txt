@@ -1,0 +1,1 @@
+Edit this line on different branches to practice resolving merge conflicts.
