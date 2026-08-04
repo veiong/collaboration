@@ -1,2 +1,3 @@
-Feature version: A
-Status: initial implementation
+Feature version: A1
+Status: iteration completed
+Change: refined after the initial A implementation
