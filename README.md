@@ -7,6 +7,8 @@
 - [无冲突 PR 操作记录](case-study/PR_WALKTHROUGH.md)
 - [冲突 PR 与三种处理方法](case-study/CONFLICT_PR_WALKTHROUGH.md)
 
+SysML v2 / MBSE 教学模型位于 [`model/`](model/)，MagicDraw/Cameo Teamwork Cloud 对照说明位于 [`collaboration/TEAMWORK_CLOUD_MAPPING.md`](collaboration/TEAMWORK_CLOUD_MAPPING.md)。
+
 ## 日常同步
 
 ```bash
